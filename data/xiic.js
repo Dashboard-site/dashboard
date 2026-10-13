@@ -179,5 +179,5 @@ window.CLASS_PACKS.xiic = {
   cleaning: [
     { date: "2026-10-07", rolls: [16, 52] }
   ],
-  leaders: [13, 41, 2, 50, 7, 43, 12, 48]
+  leaders: [13, 41, 2, 50, 7, 43, 12, 48]  //house leaders in the order p n g t
 };
