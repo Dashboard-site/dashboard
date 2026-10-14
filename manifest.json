@@ -2,7 +2,7 @@
   "id": "/",
   "name": "Class Dashboard",
   "short_name": "Dashboard",
-  "description": "Class Dashboard — Timetable, Attendance and Calendar",
+  "description": "Class Dashboard",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
