@@ -103,6 +103,6 @@ window.CLASS_PACKS.xiie = {
     { index: 63, name: "Jain Jimmy",          classSection: "XII F" },
     { index: 64, name: "Alivedya M.",         classSection: "XII F" }
   ]
-}
+},
   leaders: []
 };
