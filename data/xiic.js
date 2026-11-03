@@ -5,7 +5,7 @@ window.CLASS_PACKS.xiic = {
   label: "XII C",
   short: "12 C",
   teacher: "Ms. Ashley Mathew",
-  monitors: "Akash Padmanabhan & Daina Dawn",
+  monitors: "Aaron Shini & Anvida Jisha Rajeev",
   languageMonitors: "Hasan Raihan & Rinza Fathima",
   secondary: "",
   lastGirlRoll: 16,
