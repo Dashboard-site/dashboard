@@ -4070,12 +4070,12 @@ if (/\/index\.html?$/i.test(location.pathname)) {
             </div>
             <div class="fc-days" id="fcDays">—</div>
             <div class="fc-days-word">Days</div>
-            <div class="fc-label">Left till Board Practicals.</div>
+            <div class="fc-label">Left till Board Exam.</div>
           </div>
           <div class="fc-progress">
             <div class="fc-progress-meta">
               <span>1 Jun 2026</span>
-              <span>15 Jan 2027</span>
+              <span>15 Feb 2027</span>
             </div>
             <div class="fc-progress-track"><div id="fcProgressFill"></div></div>
           </div>
@@ -12296,7 +12296,7 @@ window.addEventListener("resize", () => {
 
 
 /* ---------- FINAL COUNTDOWN (board practicals) ---------- */
-const BOARD_PRACTICALS = new Date(2027, 0, 15); // 15 Jan 2027
+const BOARD_PRACTICALS = new Date(2027, 1, 15); // 15 Feb 2027
 let _hgRaf = null, _hgStart = 0, _hgFlipping = false;
 function renderFinalCountdown() {
   const el = document.getElementById("fcDays");
