@@ -30,7 +30,7 @@ window.CLASS_PACKS.xiic = {
     {roll:16, name:"Taniya Manattu Mathew",     date:"2009-01-17", house:"t"},
     // Boys:
     {roll:17, name:"Aadi Siva",                 date:"2009-09-03", house:"p"},
-    {roll:18, name:"Aaron John",                date:"2009-01-07", house:"n"},
+    {roll:18, name:"Aaron John",                date:"2010-01-07", house:"n"},
     {roll:19, name:"Aaron Shibu",               date:"2009-06-24", house:"g"},
     {roll:20, name:"Abel J. Varghese",          date:"2009-06-10", house:"t"},
     {roll:21, name:"Abhinav Vijesh",            date:"2009-05-05", house:"p"},
@@ -52,13 +52,13 @@ window.CLASS_PACKS.xiic = {
     {roll:37, name:"Irwin Stanley",             date:"2009-05-23", house:"p"},
     {roll:38, name:"Jezbin Tom Johney",         date:"2009-02-25", house:"n"},
     {roll:39, name:"Karthik Prajith",           date:"2009-03-19", house:"g"},
-    {roll:40, name:"Kevin George Pious",        date:"2009-08-16", house:"t"},
+    {roll:40, name:"Kevin George Pious",        date:"2009-10-16", house:"t"},
     {roll:41, name:"Manasyu Leji",              date:"2009-02-25", house:"p"},
     {roll:42, name:"Martin Roy",                date:"2009-01-01", house:"n"},
     {roll:43, name:"Muhammad Thayyib",          date:"2009-02-13", house:"g"},
     {roll:44, name:"Nandathmaj A.V.",           date:"2009-08-10", house:"t"},
     {roll:45, name:"Navjyoth Dineshan",         date:"2009-09-21", house:"p"},
-    {roll:46, name:"Noel Joseph",               date:"2009-11-09", house:"n"},
+    {roll:46, name:"Noel Joseph",               date:"2009-11-04", house:"n"},
     {roll:47, name:"Rohith Jilesh",             date:"2009-03-09", house:"g"},
     {roll:48, name:"Roshith P.P.",              date:"2009-07-17", house:"t"},
     {roll:49, name:"Sivanandh Umesh",            date:"2009-10-27", house:"p"},
@@ -155,17 +155,17 @@ window.CLASS_PACKS.xiic = {
     ],
   },
   seating: [
-  [ [6,5,14], [18,37,28], [24,40,38] ],
+  [ [19,41,36], [52,43,37], [35,51,50] ],
   // Bench 1 (front)
-  [ [15,10,11], [27,26,52], [48,33,49] ],
+  [ [31,20,47], [40,46,27], [22,33,32] ],
   // Bench 2
-  [ [1,16,null], [20,44,29], [17,25,42] ],
+  [ [29,38,23], [48,49,30], [44,39,17] ],
   // Bench 3
-  [ [8,7,12], [34,41,23], [35,21,36] ],
+  [ [45,24,34], [21,25,42], [28,26,18] ],
   // Bench 4
-  [ [3,4,null], [30,32,50], [46,47,43] ],
+  [ [1,2,3], [4,null,5], [6,7,8] ],
   // Bench 5
-  [ [13,9,2], [51,22,31], [45,39,19] ]
+  [ [9,10,11], [12,null,13], [14,15,16] ]
   // Bench 6 (back)
 ],
 
