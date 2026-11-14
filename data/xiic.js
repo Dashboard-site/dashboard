@@ -68,6 +68,7 @@ window.CLASS_PACKS.xiic = {
     {roll:52, name:"Stalvin George",            date:"2009-04-13", house:"t"},
     // Class Teacher (excluded from attendance count):
     {roll:53, name:"Ashley Teacher",             date:"2009-01-24", house:""},
+    {roll:54, name:"Sarala Teacher",             date:"2009-11-17", house:""},
   ],
   timetables: {
     0: [ // Sunday (test / fallback)
