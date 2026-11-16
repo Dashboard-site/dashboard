@@ -10,7 +10,7 @@ window.CLASS_PACKS.xiid = {
   secondary: "",
   lastGirlRoll: 30,
   lastStudentRoll: 37,
-  coAdmins: [],
+  coAdmins: ["xiidmarygiri@gmail.com"],
   students: [
     // Girls:
     {roll:1, name:"Aarushi Sajeesh", date:"2008-11-14", house:"t"},
