@@ -10,7 +10,7 @@ window.CLASS_PACKS.xiif = {
   secondary: "",
   lastGirlRoll: 36,
   lastStudentRoll: 51,
-  coAdmins: [],
+  coAdmins: ["xiifmarygiri@gmail.com"],
   students: [
     // Girls:
     {roll:1, name:"Alan Mary Binu", date:"2009-07-30", house:"g"},
