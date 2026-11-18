@@ -66,8 +66,7 @@ window.CLASS_PACKS.xiif = {
     {roll:50, name:"Shaun Biju", date:"2009-08-10", house:"t"},
     {roll:51, name:"Vaibhav C K", date:"2008-10-06", house:"p"},
     // Class Teacher (excluded from attendance count):
-    {roll:52, name:"Ms. Rini P", date:"", house:""},
-    {roll:53, name:"—", date:"", house:""},
+    {roll:52, name:"Rini tr.", date:"", house:""},
   ],
   timetables: {
     0: [{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"},{subject:"None", teacher:"-"}],
